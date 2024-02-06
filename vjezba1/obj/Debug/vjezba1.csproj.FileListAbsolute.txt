@@ -1,0 +1,10 @@
+C:\Users\Ucenik\source\repos\vjezba1\vjezba1\bin\Debug\vjezba1.exe.config
+C:\Users\Ucenik\source\repos\vjezba1\vjezba1\bin\Debug\vjezba1.exe
+C:\Users\Ucenik\source\repos\vjezba1\vjezba1\bin\Debug\vjezba1.pdb
+C:\Users\Ucenik\source\repos\vjezba1\vjezba1\obj\Debug\vjezba1.csproj.AssemblyReference.cache
+C:\Users\Ucenik\source\repos\vjezba1\vjezba1\obj\Debug\vjezba1.Form1.resources
+C:\Users\Ucenik\source\repos\vjezba1\vjezba1\obj\Debug\vjezba1.Properties.Resources.resources
+C:\Users\Ucenik\source\repos\vjezba1\vjezba1\obj\Debug\vjezba1.csproj.GenerateResource.cache
+C:\Users\Ucenik\source\repos\vjezba1\vjezba1\obj\Debug\vjezba1.csproj.CoreCompileInputs.cache
+C:\Users\Ucenik\source\repos\vjezba1\vjezba1\obj\Debug\vjezba1.exe
+C:\Users\Ucenik\source\repos\vjezba1\vjezba1\obj\Debug\vjezba1.pdb
